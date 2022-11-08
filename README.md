@@ -15,5 +15,5 @@ To run this
 
 - then in a Lisp listener load `client.lisp` and call `(run)`
 
-The server code requires Python version 3.8 or later. The Lisp code has only be tested in SBCL version 2.1.10, but
+The server code requires Python version 3.7 or later. The Lisp code has only be tested in SBCL version 2.1.10, but
 should run in any recent, modern Common Lisp implementation that supports `usocket`.
